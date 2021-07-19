@@ -24,7 +24,10 @@
 
 <br><br>
 
-## Note: Please Use A Mobile Device To Use This Site At It's Best Experience...
+## Note:
+**>- Please Use A Mobile Device To Use This Site At It's Best Experience...**
+<br>
+**>- The Security App Is Not Real Antivirus. It is Only For illustrative Purposes!**
 
 <br>
 
