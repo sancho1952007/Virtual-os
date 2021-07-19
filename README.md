@@ -15,7 +15,7 @@
 <br>
 
 ## *How To Get To This Site?*
->- Just Click **[Here](https://sancho1952007.github.io/Virtual-OS/)** to Get To The Site.
+>- Just Click **[Here](https://sancho1952007.github.io/Virtual-os/)** to Get To The Site.
 
 <br>
 
