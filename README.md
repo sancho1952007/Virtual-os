@@ -26,7 +26,7 @@
 
 ## *Preview*?
 Click **[Here](https://i.ibb.co/8zw8kBT/Screenshot-v1-0.gif)** to View Preview...
-(All Images/Gifs Are Only For Illustration Purposes)
+<br>**(Some Images/Gifs Are Only For Illustration Purposes)<br>(All Images/Gifs Might Also Be Blur Due To The Recorder!)**
 
 <br><br>
 
